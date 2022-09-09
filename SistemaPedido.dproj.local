@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/12 10:07:55.000.454,=C:\Users\Manager\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/12 10:18:08.000.742,=C:\Users\Manager\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/08/12 10:18:29.000.516,=C:\Users\Manager\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/08/12 10:54:59.000.385,C:\Users\Manager\Documents\Embarcadero\Studio\Projects\Unit2.fmx=C:\Users\Manager\Downloads\SistemaPedidos\Menu.fmx</Transaction>
+    <Transaction>2022/08/12 10:54:59.000.385,C:\Users\Manager\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Manager\Downloads\SistemaPedidos\Menu.pas</Transaction>
+    <Transaction>2022/08/12 10:55:05.000.454,C:\Users\Manager\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Manager\Downloads\SistemaPedidos\Tipo.pas</Transaction>
+    <Transaction>2022/08/12 10:55:05.000.454,C:\Users\Manager\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Manager\Downloads\SistemaPedidos\Tipo.fmx</Transaction>
+    <Transaction>2022/08/12 10:55:23.000.006,C:\Users\Manager\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Manager\Downloads\SistemaPedidos\SistemaPedido.dproj</Transaction>
+    <Transaction>2022/08/26 10:33:50.000.854,=C:\Users\sql\Downloads\SystemReqs\SystemReqs\Unit3.pas</Transaction>
+    <Transaction>2022/08/26 10:34:20.000.226,C:\Users\sql\Downloads\SystemReqs\SystemReqs\Tipo.fmx=C:\Users\sql\Downloads\SystemReqs\SystemReqs\Tipof.fmx</Transaction>
+    <Transaction>2022/08/26 10:34:20.000.226,C:\Users\sql\Downloads\SystemReqs\SystemReqs\Tipo.pas=C:\Users\sql\Downloads\SystemReqs\SystemReqs\Tipof.pas</Transaction>
+    <Transaction>2022/08/26 10:34:27.000.129,C:\Users\sql\Downloads\SystemReqs\SystemReqs\Menu.fmx=C:\Users\sql\Downloads\SystemReqs\SystemReqs\Tipo.fmx</Transaction>
+    <Transaction>2022/08/26 10:34:27.000.129,C:\Users\sql\Downloads\SystemReqs\SystemReqs\Menu.pas=C:\Users\sql\Downloads\SystemReqs\SystemReqs\Tipo.pas</Transaction>
+    <Transaction>2022/08/26 10:34:32.000.618,C:\Users\sql\Downloads\SystemReqs\SystemReqs\Tipof.pas=C:\Users\sql\Downloads\SystemReqs\SystemReqs\Menu.pas</Transaction>
+    <Transaction>2022/08/26 10:34:32.000.618,C:\Users\sql\Downloads\SystemReqs\SystemReqs\Tipof.fmx=C:\Users\sql\Downloads\SystemReqs\SystemReqs\Menu.fmx</Transaction>
+    <Transaction>2022/08/26 10:34:38.000.067,=C:\Users\sql\Downloads\SystemReqs\SystemReqs\Unit3.pas</Transaction>
+    <Transaction>2022/08/26 10:34:45.000.648,C:\Users\sql\Downloads\SystemReqs\SystemReqs\Unit3.pas=C:\Users\sql\Downloads\SystemReqs\SystemReqs\Cliente.pas</Transaction>
+    <Transaction>2022/08/26 10:34:45.000.648,C:\Users\sql\Downloads\SystemReqs\SystemReqs\Unit3.fmx=C:\Users\sql\Downloads\SystemReqs\SystemReqs\Cliente.fmx</Transaction>
+    <Transaction>2022/08/26 10:39:16.000.745,=C:\Users\sql\Downloads\SystemReqs\SystemReqs\Unit3.pas</Transaction>
+    <Transaction>2022/08/26 10:39:22.000.714,C:\Users\sql\Downloads\SystemReqs\SystemReqs\Cliente.fmx=C:\Users\sql\Downloads\SystemReqs\SystemReqs\Unit3.fmx</Transaction>
+    <Transaction>2022/08/26 10:39:22.000.714,C:\Users\sql\Downloads\SystemReqs\SystemReqs\Cliente.pas=C:\Users\sql\Downloads\SystemReqs\SystemReqs\Unit3.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="127.0.0.1:7555"/>
+	</ActiveMobileDevice>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="android-support-v4.dex.jar"/>
+    <File Path="apk-expansion.dex.jar"/>
+    <File Path="cloud-messaging.dex.jar"/>
+    <File Path="fmx.dex.jar"/>
+    <File Path="google-analytics-v2.dex.jar"/>
+    <File Path="google-play-billing.dex.jar"/>
+    <File Path="google-play-licensing.dex.jar"/>
+    <File Path="google-play-services.dex.jar"/>
+    <File Path="Menu.pas"/>
+    <File Path="Menu.fmx"/>
+    <File Path="Tipo.pas"/>
+    <File Path="Tipo.fmx"/>
+    <File Path="Cliente.pas"/>
+    <File Path="Cliente.fmx"/>
+  </ProjectSortOrder>
+</BorlandProject>
